@@ -1,24 +1,39 @@
 
 body{
- background-image: url(lines2.jpg);
+ background-image: url(lines3.jpg);
  background-repeat: no-repeat;
  background-size: cover;
 
 }
 h4{
- color: salmon;
- font-family: cursive;
+ color: hotpink;
+ font-family: inherit;
  font-size: 35px;
+ float: left;
+ text-align: center;
 }
 form{
  color: white;
  font-size: 30px;
+ float: left;
+ padding-left: 400px;
+ border-top: 0px;
+ padding-bottom: 50px;
+ text-align: center;
 }
 button{
  font-size: 24px;
+ background-color: salmon;
+ border-top: 0px;
+ margin-top: 0px;
 }
 p{
- color: yellowgreen;
+ color: white;
  font-family: fantasy;
  font-weight: bolder;
+ font-size: 24px;
+}
+img{
+ float: left;
+ padding-left: 500px;
 }
