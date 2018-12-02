@@ -1,0 +1,24 @@
+
+body{
+ background-image: url(lines2.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+h4{
+ color: salmon;
+ font-family: cursive;
+ font-size: 35px;
+}
+form{
+ color: white;
+ font-size: 30px;
+}
+button{
+ font-size: 24px;
+}
+p{
+ color: yellowgreen;
+ font-family: fantasy;
+ font-weight: bolder;
+}
